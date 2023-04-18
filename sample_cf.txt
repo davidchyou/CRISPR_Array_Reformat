@@ -1,0 +1,78 @@
+########################################
+# Program: Crispr Finder Program
+# Author: Ibtissem GRISSA
+# Rundate (GMT): -
+# Report_file: test_file
+########################################
+#=======================================
+# 
+# Sequence: NC_004547 
+# Description: Erwinia carotovora subsp. atroseptica SCRI1043, complete genome
+# Length: 5064019
+# Id: gi|50118965|ref|NC_004547.2|
+#
+#=========================================================================
+# Crispr Rank in the sequence: 1
+# Crispr_begin_position: 4124152	 Crispr_end_position: 4125860
+# DR: TTTCTAAGCTGCCTGTACGGCAGTGAAC	 DR_length: 28	 Number_of_spacers: 27
+#=========================================================================
+Spacer_begin_position	 Spacer_length	 Spacer_sequence
+              4124180	            33	 GGGTTGCCTCGGCCTGAACAGCGATCTCGCGTG
+
+              4124241	            32	 TTGAAATTAGTGACGTGAGCAGAATCGTAAAC
+
+              4124301	            32	 CGATACTCGGATACGCTCCCAGACCTTATCGA
+
+              4124361	            32	 AACACGCCGCGCGATTTTGTCCACAATGCGCA
+
+              4124421	            32	 TGTCGAGCGCTGATTCGTCGGTCACTGGATAC
+
+              4124481	            32	 TCCATAGTCCTCGGAAGGGACGACGATGTGAC
+
+              4124541	            32	 CATTAATTGACGTCTCTCTATCAATTATCTGT
+
+              4124601	            32	 CCGAGCCTGTATTACAGGTGGTTATGGCGACA
+
+              4124661	            32	 ACGCTTGATATTGCTTATGGCGTGTTAGTTCA
+
+              4124721	            32	 GATCGGCAAAGATAATCAGGCACTCATCACCG
+
+              4124781	            32	 TGAATGAGCCGGCCAATCTATATCACTACACT
+
+              4124841	            32	 GGCGCGTCAGTGAAGTGGATGTATCCGTGCCA
+
+              4124901	            32	 GCGGGGGCTAATGTGTCTGAGGCTGGTAGATC
+
+              4124961	            32	 CCAGACCGCAGCAACTACCAGTTAGCTCAACA
+
+              4125021	            32	 GAGCAATTCGCGCATGAGTTCGCGTCTACGCT
+
+              4125081	            32	 GCGTTAGGCTCGTCGGTGTAGATCAACTTTCC
+
+              4125141	            32	 TCTTTGTAATCACCTGTACGGCTGGCCCACAC
+
+              4125201	            32	 TTACGGACGCAATCTATGTGCCGTGTAACGAT
+
+              4125261	            32	 ACGCTGCGTAAGCTGGCAACCGGTGAGGTGCA
+
+              4125321	            32	 TTTGTCCTTGAGCCTGACCGCTTCCGCCATCG
+
+              4125381	            32	 CTGTCGCAGTATTTGACCCACGACGTGATGCT
+
+              4125441	            32	 AGCTTGCGTTGCTCGTCTGTCAAATTGCGGGT
+
+              4125501	            32	 AGGCGATGGTGTCGTGGTCTGACCCTGCAAAC
+
+              4125561	            32	 AACCGTCGCTCGCTGGCCACTGTACGATTCGC
+
+              4125621	            32	 ACTCTGTTATTCCCCAACTGGCGTATGCCGAG
+
+              4125681	            32	 CCTGACGGCAACGCCGACGCCGATCCGACACA
+
+              4125741	            32	 AATCAATGGCTCAGGGGATTCTACAACCCTAA
+
+              4125801	            32	 GCATCCGTCCAGACCGTATCGATAGTCTCTGC
+
+#=========================================================================
+########################################
+			
